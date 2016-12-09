@@ -1,0 +1,1656 @@
+
+<!DOCTYPE html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Rose">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width,user-scalable=0,initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-title" content="fruitday">
+    <meta content="telephone=no" name="format-detection" />
+    <meta content="email=no" name="format-detection" />
+    <meta name="keywords" content="橙,苹果,火龙果,葡萄,瓜" />
+    <meta name="description" content="天天果园官方网站提供水果生鲜、果篮券卡订制、干果零食等优质食品网购服务,2014年车厘子销量全网第一,佳沛奇异果、新奇士橙、进口牛油果等亦深受果友喜爱。" />
+    <!-- tj -->
+    <meta name="baidu-site-verification" content="iNWVGekdkk" />
+    <meta name="360-site-verification" content="ebd66b0a60ba87c234630e8174396941" />
+    <meta name="sogou_site_verification" content="K3NYdOvGD9"/>
+
+    <title>天天果园-水果网购首选品牌，只为一份极致的新鲜！</title>
+    <link rel="shortcut icon" href="http://www.fruitday.com/favicon.ico" >
+    <link href="http://www.fruitday.com/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://www.fruitday.com/css/common.css" rel="stylesheet" type="text/css">
+        <link href="http://www.fruitday.com/css/style.css" rel="stylesheet" type="text/css">
+        <!--<script src="http://www.fruitday.com/js/lib/prefixfree.min.js"></script>-->
+    <script type="text/javascript" src="http://www.fruitday.com/js/lib/jquery-1.11.0.min.js"></script>
+    <!--<script type="text/javascript" src="http://www.fruitday.com/js/lib/jquery.lazyload.min.js"></script>-->
+    <!--<script type="text/javascript" src="http://www.fruitday.com/js/lib/bootstrap.min.js"></script>-->
+    <script type="text/javascript" src="http://www.fruitday.com/js/lib/cart.js"></script>
+        <link href="http://www.fruitday.com/css/detail.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://www.fruitday.com/js/lib/MyFocus.js"></script>
+    <script type="text/javascript" src="http://www.fruitday.com/js/lib/add.js"></script>
+    <script type="text/javascript" src="http://www.fruitday.com/js/lib/tabs.js"></script>
+    
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="http://www.fruitday.com/css/style-ie.css">
+    <link rel="stylesheet" href="http://www.fruitday.com/css/style-ie1.css">
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!-- GA -->
+    <script>
+//        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+//            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+//                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+//        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+//
+//        ga('create', 'UA-52936203-1', 'auto');
+//        ga('send', 'pageview');
+
+    </script>
+
+    <!-- DSP -->
+    <script type='text/javascript'>
+
+        (function(w,d,s,l,a){
+
+            w._CommandName_=l;w[l]=w[l]||function(){(w[l].q=w[l].q||[]).push(arguments);
+
+                w[l].track = function(){(w[l].q[w[l].q.length-1].t=[]).push(arguments)};return w[l]},w[l].a=a,w[l].l=1*new Date();
+
+            var c = d.createElement(s);c.async=1;
+
+            c.src='//fm.ipinyou.com/j/a.js';
+
+            var h = d.getElementsByTagName(s)[0];h.parentNode.insertBefore(c, h);
+
+        })(window,document,'script','py','Um..uTxTXsbT929w925qCwQHQ0');
+
+        py('set','user',{'category':'0'});
+        py('event','viewPage');
+    </script>
+
+    <!-- BT -->
+    <script type='text/javascript'>
+        (function(win, doc, tag, src, name, account, script, pos) {
+            win["__BDX_DCO_FUNC__"] = name;
+            win[name] = win[name] || function() {
+                (win[name].queue = win[name].queue || []).push(arguments);
+            };
+            win[name].start = +new Date();
+            win[name].account = account;
+            script = doc.createElement(tag);
+            pos = doc.getElementsByTagName(tag)[0];
+            script.async = 1;
+            script.src = src;
+            pos.parentNode.insertBefore(script, pos);
+        })(window, document, 'script', (location.protocol == 'https:' ? 'https://cdn.masky.biddingx.com': 'http://cdn.scdng.com') + '/dco/js/t.min.js?v=1', 'BDX_DCO', 36420);
+    </script>
+    <script type='text/javascript'>
+        window._CWiQ = window._CWiQ || [];
+        window.BX_CLIENT_ID = 50791; // 帐号ID
+        (function() {
+            var c = document.createElement('script')
+                    ,p = 'https:'==document.location.protocol;
+            c.type = 'text/javascript';
+            c.async = true;
+            c.src = (p?'https://':'http://')+'tp.ana.betterdsp.com/boot/0';
+            var h = document.getElementsByTagName('script')[0];
+            h.parentNode.insertBefore(c, h);
+        })();
+        _CWiQ.push(['_trackPdmp', '全站访客', 1]);
+    </script>
+</head>
+<body>
+<!-- top -->
+<div class="top-con">
+    
+    </div>
+
+<!-- 头部开始 -->
+<section class="p-common-header">
+    <div class="topnav">
+        <div class="content clearfix">
+        <span class="pull-left">
+          <span class="pull-left p-common-region" id="region"> <i class="iconfont">&#xe602;</i>
+            <a href="javascript:;" class="topnav-region link-gray">
+                上海 <i class="iconfont">&#xe606;</i>
+            </a>
+            <div class="p-common-regionCon hide" id="regSel">
+                <h5>热门城市:</h5>
+                <ul class="list-unstyled clearfix hotcity">
+                                        <li>
+                        <a href="javascript:;" data-id="106092">上海</a>
+                    </li>
+                                        <li>
+                        <a href="javascript:;" data-id="144261">广州</a>
+                    </li>
+                                        <li>
+                        <a href="javascript:;" data-id="143949">北京</a>
+                    </li>
+                                        <li>
+                        <a href="javascript:;" data-id="17771">苏州</a>
+                    </li>
+                                        <li>
+                        <a href="javascript:;" data-id="2">南京</a>
+                    </li>
+                                        <li>
+                        <a href="javascript:;" data-id="144422">深圳</a>
+                    </li>
+                                    </ul>
+                <h5>选择城市:</h5>
+                <ul class="list-unstyled regionsel">
+                                                            <li>
+                        <a href="javascript:;" data-id="106092">上海</a>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" data-id="145855">上海崇明</a>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" class="provicesel">
+                            <span class="pull-right">
+                              <i class="iconfont">&#xe60a;</i>
+                            </span>
+                            江苏
+                        </a>
+                        <div class="citysel">
+                                                        <a href="javascript:;" data-id="14270">常州</a>
+                                                        <a href="javascript:;" data-id="31710">淮安</a>
+                                                        <a href="javascript:;" data-id="28260">连云港</a>
+                                                        <a href="javascript:;" data-id="2">南京</a>
+                                                        <a href="javascript:;" data-id="23730">南通</a>
+                                                        <a href="javascript:;" data-id="17771">苏州</a>
+                                                        <a href="javascript:;" data-id="42749">泰州</a>
+                                                        <a href="javascript:;" data-id="4536">无锡</a>
+                                                        <a href="javascript:;" data-id="46290">宿迁</a>
+                                                        <a href="javascript:;" data-id="9135">徐州</a>
+                                                        <a href="javascript:;" data-id="49184">盐城</a>
+                                                        <a href="javascript:;" data-id="36177">扬州</a>
+                                                        <a href="javascript:;" data-id="39980">镇江</a>
+                                                    </div>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" class="provicesel">
+                            <span class="pull-right">
+                              <i class="iconfont">&#xe60a;</i>
+                            </span>
+                            浙江
+                        </a>
+                        <div class="citysel">
+                                                        <a href="javascript:;" data-id="54352">杭州</a>
+                                                        <a href="javascript:;" data-id="78239">湖州</a>
+                                                        <a href="javascript:;" data-id="74881">嘉兴</a>
+                                                        <a href="javascript:;" data-id="84713">金华</a>
+                                                        <a href="javascript:;" data-id="101443">丽水</a>
+                                                        <a href="javascript:;" data-id="61841">宁波</a>
+                                                        <a href="javascript:;" data-id="90123">衢州</a>
+                                                        <a href="javascript:;" data-id="81106">绍兴</a>
+                                                        <a href="javascript:;" data-id="96033">台州</a>
+                                                        <a href="javascript:;" data-id="68453">温州</a>
+                                                        <a href="javascript:;" data-id="93628">舟山</a>
+                                                    </div>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" class="provicesel">
+                            <span class="pull-right">
+                              <i class="iconfont">&#xe60a;</i>
+                            </span>
+                            安徽
+                        </a>
+                        <div class="citysel">
+                                                        <a href="javascript:;" data-id="116543">安庆</a>
+                                                        <a href="javascript:;" data-id="110702">蚌埠</a>
+                                                        <a href="javascript:;" data-id="140334">亳州</a>
+                                                        <a href="javascript:;" data-id="142739">池州</a>
+                                                        <a href="javascript:;" data-id="122473">滁州</a>
+                                                        <a href="javascript:;" data-id="126555">阜阳</a>
+                                                        <a href="javascript:;" data-id="106341">合肥</a>
+                                                        <a href="javascript:;" data-id="114716">淮北</a>
+                                                        <a href="javascript:;" data-id="112546">淮南</a>
+                                                        <a href="javascript:;" data-id="120049">黄山</a>
+                                                        <a href="javascript:;" data-id="136386">六安</a>
+                                                        <a href="javascript:;" data-id="113743">马鞍山</a>
+                                                        <a href="javascript:;" data-id="115943">铜陵</a>
+                                                        <a href="javascript:;" data-id="109303">芜湖</a>
+                                                        <a href="javascript:;" data-id="130770">宿州</a>
+                                                        <a href="javascript:;" data-id="144431">宣城</a>
+                                                    </div>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" data-id="143949">北京</a>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" data-id="144005">天津</a>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" class="provicesel">
+                            <span class="pull-right">
+                              <i class="iconfont">&#xe60a;</i>
+                            </span>
+                            河北
+                        </a>
+                        <div class="citysel">
+                                                        <a href="javascript:;" data-id="143984">石家庄</a>
+                                                        <a href="javascript:;" data-id="144032">廊坊</a>
+                                                        <a href="javascript:;" data-id="144033">承德</a>
+                                                        <a href="javascript:;" data-id="144034">唐山</a>
+                                                        <a href="javascript:;" data-id="144660">保定</a>
+                                                        <a href="javascript:;" data-id="144668">沧州</a>
+                                                        <a href="javascript:;" data-id="144677">邯郸</a>
+                                                        <a href="javascript:;" data-id="144684">衡水</a>
+                                                        <a href="javascript:;" data-id="144690">秦皇岛</a>
+                                                        <a href="javascript:;" data-id="144694">邢台</a>
+                                                        <a href="javascript:;" data-id="144700">张家口</a>
+                                                    </div>
+                    </li>
+                                                                                <li>
+                        <a href="javascript:;" class="provicesel">
+                            <span class="pull-right">
+                              <i class="iconfont">&#xe60a;</i>
+                            </span>
+                            广东
+                        </a>
+                        <div class="citysel">
+                                                        <a href="javascript:;" data-id="144422">深圳</a>
+                                                        <a href="javascript:;" data-id="144261">广州</a>
+                                                        <a href="javascript:;" data-id="144274">珠海</a>
+                                                        <a href="javascript:;" data-id="144278">汕头</a>
+                                                        <a href="javascript:;" data-id="144285">韶关</a>
+                                                        <a href="javascript:;" data-id="144296">佛山</a>
+                                                        <a href="javascript:;" data-id="144302">江门</a>
+                                                        <a href="javascript:;" data-id="144313">湛江</a>
+                                                        <a href="javascript:;" data-id="144321">茂名</a>
+                                                        <a href="javascript:;" data-id="144328">肇庆</a>
+                                                        <a href="javascript:;" data-id="144334">惠州</a>
+                                                        <a href="javascript:;" data-id="144338">梅州</a>
+                                                        <a href="javascript:;" data-id="144341">汕尾</a>
+                                                        <a href="javascript:;" data-id="144345">河源</a>
+                                                        <a href="javascript:;" data-id="144347">阳江</a>
+                                                        <a href="javascript:;" data-id="144351">清远</a>
+                                                        <a href="javascript:;" data-id="144355">东莞</a>
+                                                        <a href="javascript:;" data-id="144357">中山</a>
+                                                        <a href="javascript:;" data-id="144359">揭阳</a>
+                                                        <a href="javascript:;" data-id="144364">云浮</a>
+                                                        <a href="javascript:;" data-id="144367">潮州</a>
+                                                    </div>
+                    </li>
+                                                        </ul>
+
+            </div>
+          </span>
+                    满百包邮（环郊内）
+          <a href="/xyd" class="link-VI2" target="_blank">星夜达</a>
+                    </span>
+
+            <ul class="pull-right list-inline">
+                                <li>
+                    <a href="/login" class="link-gray">[ 登录 ]</a>
+                    ，
+                    <a href="/register" class="link-gray">[ 注册有惊喜 ]</a>
+                </li>
+                                <li>|</li>
+
+                <li class="p-common-topsubnav">
+                    果园公告
+                    <!--<span class="tipscircle"></span>-->
+                    <div class="p-common-noticelist hide">
+                        <ul class="list-unstyled">
+                                                        <li>
+                                <a href="/notice/detail/818" target="_blank">全仓充值活动调整公告</a>
+                                <em>new</em>                            </li>
+                                                        <li>
+                                <a href="/notice/detail/817" target="_blank">全仓充值活动调整公告</a>
+                                <em>new</em>                            </li>
+                                                        <li>
+                                <a href="/notice/detail/816" target="_blank">全仓充值活动调整公告</a>
+                                <em>new</em>                            </li>
+                                                    </ul>
+                        <div class="text-center"><a href="/notice" target="_blank">查看更多 ></a></div>
+                    </div>
+                </li>
+                <li>|</li>
+                <li>
+                    <a href="/web/card_change" class="link-gray pull-left" target="_blank">券卡兑换</a>
+                </li>
+                <li>|</li>
+                <li class="p-common-topsubnav">
+                    <i class="iconfont">&#xe605;</i>
+                    手机果园
+                    <div class="p-common-topcode hide">
+                        <div class="text-center">
+                            <span class="VI-color2">下载果园app，</span>
+                            即享果园特价商品
+                        </div>
+                        <dl class="clearfix">
+                            <dt>
+                                <img src="http://img1.fruitday.com/guan_ewcode2.jpg" alt="" />
+                            </dt>
+                            <dd>
+                                <a href="https://itunes.apple.com/us/app/tian-tian-guo-yuan-fruitday/id880977721" target="_blank">
+                                    <img src="http://img2.fruitday.com/guan_btn01.jpg" alt="" />
+                                </a>
+                                <a href="http://cdn.fruitday.com/fruitday.apk" target="_blank">
+                                    <img src="http://img2.fruitday.com/guan_btn02.jpg" alt="" />
+                                </a>
+                            </dd>
+                        </dl>
+                        <dl class="clearfix">
+                            <dt>
+                                <img src="http://img1.fruitday.com/guan_ewcode1.jpg" alt="" />
+                            </dt>
+                            <dd>
+                                <span class="VI-color2">关注果园微信</span>
+                                优惠信息实时掌握
+                            </dd>
+                        </dl>
+                    </div>
+                </li>
+                <li>|</li
+                        >
+                <li>
+                    <i class="iconfont">&#xe61a;</i> <b>400-720-0770</b>
+                </li>
+            </ul>
+        </div>
+    </div>
+        <div class="content">
+        <nav class="navbar ">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand logo" href="/"></a>
+                </div>
+                <div class="collapse navbar-collapse" >
+                                    <ul class="nav navbar-nav" id="navcon">
+                        <li class="">
+                            <a href="/">
+                                首页
+                                <span>Home</span>
+                            </a> <em></em>
+                        </li>
+                        <li class="">
+                            <a href="/prolist/index/40" target="_blank">
+                                鲜果
+                                <span>Fruit</span>
+                            </a> <em></em>
+                        </li>
+                        <li class="">
+                            <a href="/prolist/index/277" target="_blank">
+                                生鲜
+                                <span>Fresh</span>
+                            </a>
+                            <em></em>
+                        </li>
+                        <li class="">
+                            <a href="/prolist/index/43" target="_blank">
+                                礼品
+                                <span>Gift</span>
+                            </a>
+                            <em></em>
+                        </li>
+<!--                        <li class="">
+                            <a href="/xsh" target="_blank">
+                                抢鲜啦！
+                                <span>Sale</span>
+                            </a>
+                            <em></em>
+                        </li>-->
+<!--                        <li class="">
+                            <a href="/kjt" target="_blank">
+                                跨境鲜
+                                <span>Duty free</span>
+                            </a>
+                            <em></em>
+                        </li>-->
+                        <li class="">
+                            <a href="/member/center" target="_blank">
+                                会员中心
+                                <span>VIP Club</span>
+                            </a>
+                            <em></em>
+                        </li>
+                    </ul>
+                    <div class="navbar-right">
+                        <div class="p-common-topsearch">
+                            <input id="search-keyword" type="search" placeholder="请输入关键字" value="樱桃"/>
+                            <input type="hidden" id="last_keyword" />
+                            <button id="search-button">
+                                <i class="iconfont">&#xe600;</i>
+                            </button>
+                            <div class="hotsearch">
+                                热门：
+                                                                <a href="/prolist/search?keyword=金奇异果" target="_blank">金奇异果</a>
+                                                                <a href="/prolist/search?keyword=脐橙" target="_blank">脐橙</a>
+                                                                <a href="/prolist/search?keyword=柚子" target="_blank">柚子</a>
+                                                                <a href="/prolist/search?keyword=苹果" target="_blank">苹果</a>
+                                                            </div>
+                            <ul class="subsearch">
+                            </ul>
+                        </div>
+                        <script>
+                            $(function() {
+                                $("#search-button").on('click', function() {
+                                    if ($.trim($("#search-keyword").val()).length > 0) {
+                                        location.href = '/prolist/search?keyword=' + $.trim($("#search-keyword").val());
+                                    } else {
+                                        $("#search-keyword").val('');
+                                    }
+                                });
+                                $("#search-keyword").on('keydown', function(e) {
+                                    if (e.which == 13) {
+                                        $("#search-button").click();
+                                    }
+                                });
+                            });
+                        </script>
+
+                        <div class="p-common-navtoggle" id="navtoggle">
+                            <i class="iconfont navtogglebg">&#xe601;</i>
+                            <ul class="navtoggle-icon list-unstyled">
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                            </ul>
+                        </div>
+
+						<div class="p-common-minicart">
+	<div id="miniCart">
+		<i class="iconfont cartbg">&#xe601;</i>
+		<i class="iconfont icon-cart">&#xe60c;</i>
+		<span class="cartnum">0</span>
+	</div>
+			<div class="cartcont"><i class="iconfont">&#xe607;</i>
+			 <h5 class="text-center font-color">购物车中还没有商品，赶紧选购吧！</h5>
+		</div>
+	
+</div>
+</div>
+
+<script>
+    $(function() {
+        $('.p-common-minicart').delegate('#btncart', 'click', function(e){
+            window.open("/cart");
+        });
+    });
+</script>
+
+
+
+                    </div>
+                                    </div>
+            </div>
+        </nav>
+    </div>
+</section>
+
+
+    <!-- 水果信息开始 -->
+    <div class="content typepage clearfix">
+        <div class="bread">
+            <strong class="lvse"><a href="/">首页</a></strong>
+            <span class="lvse">
+                                &gt;
+                <a href="/prolist/index/40">新鲜水果</a>
+                                &gt;
+            </span>
+            <span class="huise">精选红心火龙果</span>
+        </div>
+        <!-- 焦点图开始 -->
+        <div id="MyFocus" class="pull-left">
+            <ul class="dianul">
+                                <li class=" cur">
+                    <img src="https://imgws1.fruitday.com/images/product_pic/14052/1/1-180x180-14052-381DTSCX.jpg"/>
+                    <span>
+                        <img src="/images/common/panel.png"/>
+                    </span>
+                </li>
+                                <li class=" ">
+                    <img src="https://imgws1.fruitday.com/images/product_pic/14052/2/2-180x180-14052-5D42P1HP.jpg"/>
+                    <span>
+                        <img src="/images/common/panel.png"/>
+                    </span>
+                </li>
+                                <li class="last ">
+                    <img src="https://imgws1.fruitday.com/images/product_pic/14052/3/3-180x180-14052-5D42P1HP.jpg"/>
+                    <span>
+                        <img src="/images/common/panel.png"/>
+                    </span>
+                </li>
+                            </ul>
+            <ul class="tuul">
+                                <li class="cur">
+                    <a href="javascript:;">
+                        <img src="https://imgws1.fruitday.com/images/product_pic/14052/1/1-370x370-14052-381DTSCX.jpg"/>
+                    </a>
+                </li>
+                                <li class="cur">
+                    <a href="javascript:;">
+                        <img src="https://imgws1.fruitday.com/images/product_pic/14052/2/2-370x370-14052-5D42P1HP.jpg"/>
+                    </a>
+                </li>
+                                <li class="cur">
+                    <a href="javascript:;">
+                        <img src="https://imgws1.fruitday.com/images/product_pic/14052/3/3-370x370-14052-5D42P1HP.jpg"/>
+                    </a>
+                </li>
+                                            </ul>
+        </div>
+        <script type="text/javascript">
+            window.onload = function(){
+                MyFocus(5000);
+            }
+        </script>
+        <!-- 焦点图结束 -->
+        <!-- 产品信息 -->
+        <div class="product-info pull-left">
+            <div class="country clearfix">
+                                <div class="name pull-left">
+                    <h3>精选红心火龙果</h3>
+                    <p class="title_describeapp">
+                        颠覆您想象的甜                    </p>
+                </div>
+            </div>
+            <div class="price-info">
+                <div class="price01 clearfix">
+                    <div class="box pull-left">
+                        <h5 class="pull-left">果园价</h5>
+                        <span class="pull-left price-sp" id="jq-price">￥59.00</span>
+                                            </div>
+
+                    <div class="box2 pull-right">
+                        <div class="weixin">
+                            <img src="http://qr.liantu.com/api.php?el=l&w=280&m=5&text=http://m.fruitday.com/detail/index/14356"/>
+                        </div>
+                    </div>
+                    <script type="text/javascript">
+                        $(document).ready(
+                            function(e){
+                                $(".box2").mouseover(
+                                    function(e){
+                                    /* Act on the event */
+                                    $(".weixin").show();
+                                });
+                                 $(".box2").mouseleave(
+                                    function(e){
+                                     /* Act on the event */
+                                     $(".weixin").hide();
+                                 });
+
+                            });
+                    </script>
+                </div>
+                <div class="guige clearfix">
+                    <h5 class="pull-left">规格</h5>
+                    <div class="zhuang pull-left">
+                                                <span data-old-price="59.00" data-price="59.00" data-pid="14356" data-ppid="17390" data-product_no="2160711106" data-outofstock="0" class="pull-left current">4斤</span>
+                                            </div>
+                    <script>
+                        $(".guige div.zhuang span").on('click', function() {
+                            if (!$(this).hasClass('current')) {
+                                $("#jq-old-price").html('￥' + $(this).data('old-price'));
+                                $("#jq-price").html('￥' + $(this).data('price'));
+                                $(this).addClass('current').siblings('span').removeClass('current');
+                                $("#product_no").text($(this).data('product_no'));
+
+                                var stockMsg = '';
+                                if ($(this).data('outofstock')) {
+                                    stockMsg = '无货';
+                                    $("div.buy a").addClass('none');
+                                } else {
+                                    stockMsg = '有货';
+                                    $("div.buy a").removeClass('none');
+                                }
+                                $("div.send > span.have").text(stockMsg);
+                            }
+                        });
+                    </script>
+                </div>
+                <input type="hidden" id="send_to" name="send_to" value="106092" />
+                                    
+                <div class="send clearfix">
+                    <h5 class="pull-left">配送至</h5>
+                    <!-- Single button -->
+                    <div class="btn-group pull-left">
+                        <div class="btn btn-default dropdown-toggle" aria-expanded="false">
+                            <p id="send-area">上海</p>
+                            <span class="glyphicon glyphicon-menu-down"></span>
+                            <span class="icon"></span>
+                        </div>
+                        <div class="dropdown-menu" role="menu">
+                            <div class="dropdown-content">
+                                <div class="dropdown-nav">
+                                    <ul class="tab">
+                                        <li id="province_item"><a class="hover" href="javascript:void(0);"><em>请选择</em><i></i></a></li>
+                                        <li id="city_item" style="display: none"><a href="javascript:void(0);"><em>请选择</em><i></i></a></li>
+                                    </ul>
+                                </div>
+                                <div class="fd-area active" id="stock_province_item">
+                                    <ul class="area-list">
+                                                                                <li data-id="106092" data-name="上海"><a href="javascript:void(0);">上海</a></li>
+                                                                                <li data-id="145855" data-name="上海崇明"><a href="javascript:void(0);">上海崇明</a></li>
+                                                                                <li data-id="1" data-name="江苏"><a href="javascript:void(0);">江苏</a></li>
+                                                                                <li data-id="54351" data-name="浙江"><a href="javascript:void(0);">浙江</a></li>
+                                                                                <li data-id="106340" data-name="安徽"><a href="javascript:void(0);">安徽</a></li>
+                                                                                <li data-id="143949" data-name="北京"><a href="javascript:void(0);">北京</a></li>
+                                                                                <li data-id="144005" data-name="天津"><a href="javascript:void(0);">天津</a></li>
+                                                                                <li data-id="143983" data-name="河北"><a href="javascript:void(0);">河北</a></li>
+                                                                                <li data-id="144252" data-name="广东"><a href="javascript:void(0);">广东</a></li>
+                                                                            </ul>
+                                </div>
+                                <div class="fd-area" id="stock_city_item">
+                                    <ul class="area-list">
+                                                                                                                                                                                                                                                                                                                                                    <li data-pid="1" data-id="14270" data-name="常州"><a href="javascript:void(0);">常州</a></li>
+                                                                                        <li data-pid="1" data-id="31710" data-name="淮安"><a href="javascript:void(0);">淮安</a></li>
+                                                                                        <li data-pid="1" data-id="28260" data-name="连云港"><a href="javascript:void(0);">连云港</a></li>
+                                                                                        <li data-pid="1" data-id="2" data-name="南京"><a href="javascript:void(0);">南京</a></li>
+                                                                                        <li data-pid="1" data-id="23730" data-name="南通"><a href="javascript:void(0);">南通</a></li>
+                                                                                        <li data-pid="1" data-id="17771" data-name="苏州"><a href="javascript:void(0);">苏州</a></li>
+                                                                                        <li data-pid="1" data-id="42749" data-name="泰州"><a href="javascript:void(0);">泰州</a></li>
+                                                                                        <li data-pid="1" data-id="4536" data-name="无锡"><a href="javascript:void(0);">无锡</a></li>
+                                                                                        <li data-pid="1" data-id="46290" data-name="宿迁"><a href="javascript:void(0);">宿迁</a></li>
+                                                                                        <li data-pid="1" data-id="9135" data-name="徐州"><a href="javascript:void(0);">徐州</a></li>
+                                                                                        <li data-pid="1" data-id="49184" data-name="盐城"><a href="javascript:void(0);">盐城</a></li>
+                                                                                        <li data-pid="1" data-id="36177" data-name="扬州"><a href="javascript:void(0);">扬州</a></li>
+                                                                                        <li data-pid="1" data-id="39980" data-name="镇江"><a href="javascript:void(0);">镇江</a></li>
+                                                                                                                                                                                                                                                                        <li data-pid="54351" data-id="54352" data-name="杭州"><a href="javascript:void(0);">杭州</a></li>
+                                                                                        <li data-pid="54351" data-id="78239" data-name="湖州"><a href="javascript:void(0);">湖州</a></li>
+                                                                                        <li data-pid="54351" data-id="74881" data-name="嘉兴"><a href="javascript:void(0);">嘉兴</a></li>
+                                                                                        <li data-pid="54351" data-id="84713" data-name="金华"><a href="javascript:void(0);">金华</a></li>
+                                                                                        <li data-pid="54351" data-id="101443" data-name="丽水"><a href="javascript:void(0);">丽水</a></li>
+                                                                                        <li data-pid="54351" data-id="61841" data-name="宁波"><a href="javascript:void(0);">宁波</a></li>
+                                                                                        <li data-pid="54351" data-id="90123" data-name="衢州"><a href="javascript:void(0);">衢州</a></li>
+                                                                                        <li data-pid="54351" data-id="81106" data-name="绍兴"><a href="javascript:void(0);">绍兴</a></li>
+                                                                                        <li data-pid="54351" data-id="96033" data-name="台州"><a href="javascript:void(0);">台州</a></li>
+                                                                                        <li data-pid="54351" data-id="68453" data-name="温州"><a href="javascript:void(0);">温州</a></li>
+                                                                                        <li data-pid="54351" data-id="93628" data-name="舟山"><a href="javascript:void(0);">舟山</a></li>
+                                                                                                                                                                                                                                                                        <li data-pid="106340" data-id="116543" data-name="安庆"><a href="javascript:void(0);">安庆</a></li>
+                                                                                        <li data-pid="106340" data-id="110702" data-name="蚌埠"><a href="javascript:void(0);">蚌埠</a></li>
+                                                                                        <li data-pid="106340" data-id="140334" data-name="亳州"><a href="javascript:void(0);">亳州</a></li>
+                                                                                        <li data-pid="106340" data-id="142739" data-name="池州"><a href="javascript:void(0);">池州</a></li>
+                                                                                        <li data-pid="106340" data-id="122473" data-name="滁州"><a href="javascript:void(0);">滁州</a></li>
+                                                                                        <li data-pid="106340" data-id="126555" data-name="阜阳"><a href="javascript:void(0);">阜阳</a></li>
+                                                                                        <li data-pid="106340" data-id="106341" data-name="合肥"><a href="javascript:void(0);">合肥</a></li>
+                                                                                        <li data-pid="106340" data-id="114716" data-name="淮北"><a href="javascript:void(0);">淮北</a></li>
+                                                                                        <li data-pid="106340" data-id="112546" data-name="淮南"><a href="javascript:void(0);">淮南</a></li>
+                                                                                        <li data-pid="106340" data-id="120049" data-name="黄山"><a href="javascript:void(0);">黄山</a></li>
+                                                                                        <li data-pid="106340" data-id="136386" data-name="六安"><a href="javascript:void(0);">六安</a></li>
+                                                                                        <li data-pid="106340" data-id="113743" data-name="马鞍山"><a href="javascript:void(0);">马鞍山</a></li>
+                                                                                        <li data-pid="106340" data-id="115943" data-name="铜陵"><a href="javascript:void(0);">铜陵</a></li>
+                                                                                        <li data-pid="106340" data-id="109303" data-name="芜湖"><a href="javascript:void(0);">芜湖</a></li>
+                                                                                        <li data-pid="106340" data-id="130770" data-name="宿州"><a href="javascript:void(0);">宿州</a></li>
+                                                                                        <li data-pid="106340" data-id="144431" data-name="宣城"><a href="javascript:void(0);">宣城</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                <li data-pid="143983" data-id="143984" data-name="石家庄"><a href="javascript:void(0);">石家庄</a></li>
+                                                                                        <li data-pid="143983" data-id="144032" data-name="廊坊"><a href="javascript:void(0);">廊坊</a></li>
+                                                                                        <li data-pid="143983" data-id="144033" data-name="承德"><a href="javascript:void(0);">承德</a></li>
+                                                                                        <li data-pid="143983" data-id="144034" data-name="唐山"><a href="javascript:void(0);">唐山</a></li>
+                                                                                        <li data-pid="143983" data-id="144660" data-name="保定"><a href="javascript:void(0);">保定</a></li>
+                                                                                        <li data-pid="143983" data-id="144668" data-name="沧州"><a href="javascript:void(0);">沧州</a></li>
+                                                                                        <li data-pid="143983" data-id="144677" data-name="邯郸"><a href="javascript:void(0);">邯郸</a></li>
+                                                                                        <li data-pid="143983" data-id="144684" data-name="衡水"><a href="javascript:void(0);">衡水</a></li>
+                                                                                        <li data-pid="143983" data-id="144690" data-name="秦皇岛"><a href="javascript:void(0);">秦皇岛</a></li>
+                                                                                        <li data-pid="143983" data-id="144694" data-name="邢台"><a href="javascript:void(0);">邢台</a></li>
+                                                                                        <li data-pid="143983" data-id="144700" data-name="张家口"><a href="javascript:void(0);">张家口</a></li>
+                                                                                                                                                                                                                                                                        <li data-pid="144252" data-id="144422" data-name="深圳"><a href="javascript:void(0);">深圳</a></li>
+                                                                                        <li data-pid="144252" data-id="144261" data-name="广州"><a href="javascript:void(0);">广州</a></li>
+                                                                                        <li data-pid="144252" data-id="144274" data-name="珠海"><a href="javascript:void(0);">珠海</a></li>
+                                                                                        <li data-pid="144252" data-id="144278" data-name="汕头"><a href="javascript:void(0);">汕头</a></li>
+                                                                                        <li data-pid="144252" data-id="144285" data-name="韶关"><a href="javascript:void(0);">韶关</a></li>
+                                                                                        <li data-pid="144252" data-id="144296" data-name="佛山"><a href="javascript:void(0);">佛山</a></li>
+                                                                                        <li data-pid="144252" data-id="144302" data-name="江门"><a href="javascript:void(0);">江门</a></li>
+                                                                                        <li data-pid="144252" data-id="144313" data-name="湛江"><a href="javascript:void(0);">湛江</a></li>
+                                                                                        <li data-pid="144252" data-id="144321" data-name="茂名"><a href="javascript:void(0);">茂名</a></li>
+                                                                                        <li data-pid="144252" data-id="144328" data-name="肇庆"><a href="javascript:void(0);">肇庆</a></li>
+                                                                                        <li data-pid="144252" data-id="144334" data-name="惠州"><a href="javascript:void(0);">惠州</a></li>
+                                                                                        <li data-pid="144252" data-id="144338" data-name="梅州"><a href="javascript:void(0);">梅州</a></li>
+                                                                                        <li data-pid="144252" data-id="144341" data-name="汕尾"><a href="javascript:void(0);">汕尾</a></li>
+                                                                                        <li data-pid="144252" data-id="144345" data-name="河源"><a href="javascript:void(0);">河源</a></li>
+                                                                                        <li data-pid="144252" data-id="144347" data-name="阳江"><a href="javascript:void(0);">阳江</a></li>
+                                                                                        <li data-pid="144252" data-id="144351" data-name="清远"><a href="javascript:void(0);">清远</a></li>
+                                                                                        <li data-pid="144252" data-id="144355" data-name="东莞"><a href="javascript:void(0);">东莞</a></li>
+                                                                                        <li data-pid="144252" data-id="144357" data-name="中山"><a href="javascript:void(0);">中山</a></li>
+                                                                                        <li data-pid="144252" data-id="144359" data-name="揭阳"><a href="javascript:void(0);">揭阳</a></li>
+                                                                                        <li data-pid="144252" data-id="144364" data-name="云浮"><a href="javascript:void(0);">云浮</a></li>
+                                                                                        <li data-pid="144252" data-id="144367" data-name="潮州"><a href="javascript:void(0);">潮州</a></li>
+                                                                                                                                                                        </ul>
+                                </div>
+                                <div class="fd-area" id="dropdown-town"></div>
+                            </div>
+                            <div class="dropdown-close"></div>
+                        </div>
+                    </div>
+                    <span class="pull-left have">有货</span>
+                </div>
+                <script>
+                    var areaBox = $("div.btn-group.pull-left");
+                    var hoverHandler = $(".dropdown-toggle");
+                    var closeHandler = $(".dropdown-close");
+                    var targetAreaBox = $(".dropdown-menu");
+                    var dropdownNav = $(".dropdown-nav li");
+                    var dropdownNavBox = $(".dropdown-content .fd-area");
+                    var autoClose;
+
+                    // 地址长度大于4，改变宽度
+                    $(".area-list li a").each(function(){
+                      if($(this).text().length>4){
+                        $(this).parent().addClass("long-area");
+                      }
+                    });
+                    // input handler hover, target show
+                    hoverHandler.on('mouseover', function() {
+                        $(this).css({
+                            "border-bottom": '0',
+                            "z-index": '10'
+                        });
+                        targetAreaBox.show();
+                        dropdownNav.first().click();
+                    });
+                    // close handler click, target hide
+                    closeHandler.on('click', function() {
+                        targetAreaBox.hide();
+                        hoverHandler.css('border-bottom', '1px solid #CECBCE');
+                    });
+                    // nav click, nav box show
+                    dropdownNav.on('click', function() {
+                        $(this).children('a').addClass('hover');
+                        $(this).siblings('li').children('a').removeClass('hover');
+                        dropdownNavBox.eq($(this).index()).addClass('active').siblings().removeClass('active');
+                    });
+                    // first tab li click
+                    select($("#stock_province_item li"), $("#city_item"), $("#stock_city_item"));
+                    // last tab li click
+                    $("#stock_city_item li").on('click', function() {
+                        selectLast($(this));
+                    });
+
+                    // select function, not last select
+                    function select(handler, targetTop, targetBox) {
+                        handler.on('click', function() {
+                            var son = targetBox.find("li[data-pid=" + $(this).data('id') + "]");
+                            if (son.length > 0) {
+                                targetTop.prev().find("em").text($(this).data('name'));
+                                targetTop.show().click();
+                                son.show().siblings("li[data-pid!=" + $(this).data('id') + "]").hide();
+                            } else {
+                                selectLast($(this));
+                            }
+                        });
+                    };
+
+                    // last select function
+                    function selectLast(obj) {
+                        $("#send-area").text(obj.data('name'));
+                        closeHandler.click();
+                        setRegion(obj.data('id'), obj.data('name'));
+                    }
+
+                    // auto close
+                    areaBox.on('mouseover', function() {
+                        if (autoClose) {
+                            clearTimeout(autoClose);
+                        }
+                    }).on('mouseout', function() {
+                        autoClose = setTimeout(function() {
+                            targetAreaBox.hide();
+                            hoverHandler.css('border-bottom', '1px solid #CECBCE');
+                        }, 1000);
+                    });
+                </script>
+                    
+                                <div class="number clearfix">
+                    <h5 class="pull-left">数量</h5>
+                                        <div class="goods-buy01 pull-left clearfix">
+                        <span id="redu" class="num pull-left">-</span>
+                        <input class="pull-left" id="add" type="tel" value="1">
+                        <span id="add1" class="num pull-left">+</span>
+                    </div>
+                                    </div>
+                <div class="buy clearfix">
+                    <div class="fr-buy pull-left">
+                        <a href="javascript:;" class="btn btn-primary btn-lg active " role="button" title="点击此按钮，到下一步确认购买信息">立即购买</a>
+                    </div>
+                                        <div class="fr-add pull-left">
+                        <a href="javascript:;" class="btn btn-primary btn-lg active " title="加入购物车" role="button" >
+                            加入购物车
+                        </a>
+                    </div>
+                                    </div>
+            </div>
+            <div class="comment clearfix">
+                                <div class="pull-left clearfix">
+                    <h5 class="pull-left">甜度</h5>
+                    <span class="pull-left">
+                        <img src="/images/common/circle-2.png"/>
+                    </span>
+                </div>
+                                <!--<div class="pull-left clearfix">
+                    <h5 class="pull-left">种类</h5>
+                    <span class="pull-left">火龙果</span>
+                </div>-->
+                                <div class="pull-left clearfix">
+                    <h5 class="pull-left">产地</h5>
+                    <span class="pull-left">中国</span>
+                </div>
+                                                <div class="pull-left clearfix">
+                    <h5 class="pull-left">存储方法</h5>
+                    <span class="pull-left">常温</span>
+                </div>
+                                                <div class="pull-left clearfix">
+                    <h5 class="pull-left">说明</h5>
+                    <span class="pull-left">商品实际重量存在误差(±5%)</span>
+                </div>
+                                                <div class="pull-left clearfix">
+                    <h5 class="pull-left">备注</h5>
+                    <span class="pull-left">
+                        单重300g以上
+                    </span>
+                </div>
+                                <div class="pull-left clearfix">
+                    <h5 class="pull-left">商品编号</h5>
+                    <span class="pull-left" id="product_no">2160711106</span>
+                </div>
+            </div>
+        </div>
+        <!-- 产品信息结束 -->
+        <div class="cl h68"></div>
+        <!--  评论开始-->
+        <input type="hidden" id="product_id" value="14356">
+        <input type="hidden" id="comment_curr_page" value="0">
+        <input type="hidden" id="comment_curr_type" value="">
+        <input type="hidden" id="comment_curr_total" value="0">
+        <div class="assess clearfix">
+            <div class="leftpart pull-left">
+                <div class="good-details js_fixed clearfix"  id="js_fixed">
+                    <span class="cur pull-left" draggable="true">商品简介</span>
+                    <span class="pull-left">
+                        顾客评论 <b id="comment_total_top">(0)</b>
+                    </span>
+                                        <a href="javascript:;" class="pull-right btn btn-primary btn-lg active " title="加入购物车" role="button">加入购物车 <i class="tb-iconfont pull-left"></i>
+                        <div class="thefruit clearfix">
+                            <div class="fruitleft pull-left">
+                                <img src="https://imgws1.fruitday.com/images/product_pic/14052/1/1-180x180-14052-381DTSCX.jpg"/>
+                            </div>
+                            <div class="fruitright pull-left">
+                                <h5>精选红心火龙果</h5>
+                                <p>￥59.00 / 4斤</p>
+                                <p class="frnum"></p>
+                                <div class="anniu">
+                                    确认
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                                    </div>
+                <div class="good-comments">
+                    <ul class="no1" style="display: block;">
+                        <li>
+                            <html>
+        <head>
+                <meta content="width=device-width, initial-scale=1.0,  user-scalable=1;" name="viewport" />
+                <style>*{margin:0; padding:0;}
+                        .app-detail{padding:0px; margin:0}
+                        .app-detail>img{width:100%;}
+                </style>
+        </head>
+        <body><div class="app-detail"><style type="text/css">.dynamic-prop-table{font-family:Calibri,Arial,Helvetica,sans-serif;border:1px solid #d8d8d8}.dynamic-prop-table dl{display:box;display:-webkit-box;display:-ms-box;display:-moz-box;-webkit-box-align:center;-ms-box-align:center;-moz-box-align:center;border-bottom:1px solid #d8d8d8;margin:0;font-size:14px;line-height:17px;width:100%;font-weight:lighter}.dynamic-prop-table dl:nth-child(odd){background:#f7f7f7}.dynamic-prop-table dl:last-of-type{border-bottom:0}.dynamic-prop-table dl dt{width:86px;text-align:left;padding:9px 12px}.dynamic-prop-table dl dd{-webkit-box-flex:1;-moz-box-flex:1;-ms--box-flex:1;box-flex:1;margin:0;border-left:1px solid #d8d8d8;padding:9px 12px}</style><div class="dynamic-prop-table"><dl><dt>产地</dt><dd>国产</dd></dl><dl><dt>销售规格</dt><dd>4斤</dd></dl><dl><dt>商品单重</dt><dd>300g以上</dd></dl><dl><dt>储藏方法</dt><dd>在避光，阴凉处储存</dd></dl><dl><dt>营养元素</dt><dd>维生素C，花青素，胡萝卜素</dd></dl></div><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775741946.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775741946.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775759046.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775759046.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775761969.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775761969.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/1480677577471.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/1480677577471.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775782974.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775782974.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775801527.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775801527.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775819505.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775819505.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775826194.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/14806775826194.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161202/1480677584593.gif" _data-original="https://imgqn5.fruitday.com/up_images/20161202/1480677584593.gif"/><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904667734.jpg" _data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904667734.jpg" /><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904673825.jpg" _data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904673825.jpg" /><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904699704.jpg" _data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904699704.jpg" /><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904716078.jpg" _data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904716078.jpg" /><img class="lazy" src="/images/common/default.png" data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904728386.jpg" _data-original="https://imgqn5.fruitday.com/up_images/20161009/14759904728386.jpg" /></div></body>
+</html>
+                        </li>
+                    </ul>
+                    <ul class="no2" style="display: none;">
+                        <div class="detail-title clearfix">
+                            <div class="detail-title00 pull-left">
+                                <p class="p1" id="grade_good_another_left">0%</p>
+                                <p class="p2 mar-8">好评度</p>
+                            </div>
+                            <div class="detail-title01 pull-left">
+                                <div class="pl-user clearfix">
+                                    <div class="green-user pull-left">不错哟</div>
+                                    <div class="dengji-good pull-left">
+                                        <div id="grade_good_another" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="dengji-number pull-left" id="good_rate_another">0%</div>
+                                </div>
+                                <div class="pl-user clearfix">
+                                    <div class="green-user pull-left">待提高</div>
+                                    <div class="dengji-good pull-left">
+                                        <div id="grade_normal_another" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="dengji-number pull-left" id="normal_rate_another">0%</div>
+                                </div>
+                                <div class="pl-user clearfix">
+                                    <div class="green-user pull-left">小失落</div>
+                                    <div class="dengji-good pull-left">
+                                        <div id="grade_bad_another" style="width: 0%;"></div>
+                                    </div>
+                                    <div class="dengji-number pull-left" id="bad_rate_another">0%</div>
+                                </div>
+                            </div>
+                            <div class="detail-title02 pull-left clearfix">
+                                <p class="">发布评价即可获10积分，</p>
+                                <p class="w-375">APP上传图片并晒单即可获得20积分，前5名可获双倍积分。</p>
+
+                            </div>
+                        </div>
+                        <div class="detail-user">
+                            <div class="modal fade bs-appraise-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" style="display: none;">
+                                <div class="modal-dialog modal-md">
+                                      <div class="modal-content appraise-img-dialog">
+                                        <img src="">
+                                      </div>
+                                </div>
+                            </div>
+                            <div class="detail-user-title  clearfix">
+                                <ul>
+                                    <li  val="" id="c_all_another" class="now-gray pull-left">
+                                        <s class="fpicon"></s>
+                                        全部评论(
+                                        <span id="comment_total">0</span>
+                                        )
+                                    </li>
+                                    <li val="good" id="c_good_another" class="pull-left">
+                                        <s class="fpicon"></s>
+                                        不错呦(
+                                        <span id="comment_total_good">0</span>
+                                        )
+                                    </li>
+                                    <li val="normal" id="c_normal_another" class="pull-left">
+                                        <s class="fpicon"></s>
+                                        待提高(
+                                        <span id="comment_total_normal">0</span>
+                                        )
+                                    </li>
+                                    <li val="bad" id="c_bad_another" class="pull-left">
+                                        <s class="fpicon"></s>
+                                        小失落(
+                                        <span id="comment_total_bad">0</span>
+                                        )
+                                    </li>
+                                                                    </ul>
+                            </div>
+                            <div class="detail-allsays" id="comment_box">
+                                <div class="nocomm">正在加载 ......</div>
+                            </div>
+                            <div class="btn-toolbar" role="toolbar" >
+                                <div class="main" id="comment_box_page">
+                                </div>
+                            </div>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <div class="rightpart pull-right">
+                <h5>最近浏览过</h5>
+<ul>
+            <li>
+        <a href="/prodetail/index/14356" class="clearfix" target="_blank">
+            <div class="tu pull-left">
+                                <img src="https://imgws2.fruitday.com/images/product_pic/14052/1/1-180x180-14052-A671693Y.jpg"/>
+                
+            </div>
+            <div class="title pull-left">
+                <h5>精选红心火龙果</h5>
+                <p>￥59.00 / 4斤</p>
+                            </div>
+        </a>
+    </li>
+    </ul>
+
+            </div>
+        </div>
+        <!--
+        <div class="product-info number pull-left">
+            <div class="comment clearfix">
+                <div class="pull-left clearfix">
+                    <h5 class="pull-left">商品编码</h5>
+                    <span class="pull-left product_no">
+                        2160711106
+                    </span>
+                </div>
+            </div>
+        </div>-->
+        <script>
+            $(".content .assess .good-details a").click(function(event) {
+                if ($(this).hasClass('none')) {
+                    gdialog_info('该商品已缺货');
+                    return false;
+                }
+
+                //同步购物车购买数量
+                var num = parseInt($("#add").val());
+                var str = 'X'+num;
+                $('.frnum').text(str);
+
+                $(".thefruit").toggle();
+                $('.content .assess .good-details a .thefruit').click(function() {
+                       return false;
+                    }
+                 );
+            });
+
+            $(function() {
+                getCommentRate();
+
+                $("#c_all_another, #c_good_another, #c_normal_another, #c_bad_another").on('click', function() {
+                    getComment($(this).attr('val'), 0, $(this).children('span').text());
+                });
+
+                $("#foretaste-comment").on('click', function() {
+                    getList(1);
+                });
+
+                //立即购买
+                $(".price-info .buy .fr-buy").click(function(){
+                    if ($(this).children('a').hasClass('none')) {
+                        gdialog_info('该商品已缺货');
+                        return false;
+                    }
+                    var active_id = '';
+
+                    if(active_id == '' || active_id == null)
+                    {
+                        //添加商品到购物车
+                        addCart('lg');
+                    }
+                    else if (!$(this).children('a').hasClass('none'))
+                    {
+                        //kjt
+                        var items = "14356"+'|'+"17390"+'|'+"2160711106"+'|'+active_id;
+                        $.base64.utf8encode = true;
+                        items = $.base64.encode(items);
+                        top.location.href = '/kjtorder/index/'+items;
+                    }
+
+                });
+
+                // 加入购物车
+                $(".price-info .buy .fr-add").click(function(){
+                    if ($(this).children('a').hasClass('none')) {
+                        gdialog_info('该商品已缺货');
+                        return false;
+                    }
+                    addCart();
+                });
+                $('.shop-cart .shop-top .cha').click(function(){
+                    $('.shop-cart').fadeOut(800);
+                    $('.zhezhao').fadeOut(800);
+
+                });
+
+                //加入购物车 - 下拉确认
+                $(".anniu").click(function(){
+                    //添加商品到购物车
+                    addCart();
+                });
+
+
+            });
+
+            /*
+             * 加入购物车
+             */
+            function addCart(type)
+            {
+                var items = {
+                    0: {
+                        'pid': $("div.zhuang > span[class*=current]").data('pid'),
+                        'ppid': $("div.zhuang > span[class*=current]").data('ppid'),
+                        'pno': $("div.zhuang > span[class*=current]").data('product_no'),
+                        'type':"normal",
+                        'qty':parseInt($("#add").val())
+                    }
+                };
+
+                //添加商品到购物车
+                $.ajax({
+                    type: 'POST',
+                    url: '/ajax/cart/add',
+                    dataType: 'json',
+                    data: {
+                        items:items
+                    },
+                    success: function(rs) {
+                        if (rs.code == 200) {
+
+                            if(type != 'lg')
+                            {
+                                $('.zhezhao').fadeIn(800);
+                                $('.shop-cart').fadeIn(800);
+                            }
+
+                            var ds = rs.data;
+                            var cartcount = ds.cartcount;
+                            var cartprice = '￥'+ds.cart.total_amount;
+
+                            $(".cartcount").html(cartcount);
+                            $(".cartprice").html(cartprice);
+
+                            var url = "http://"+window.location.host;
+                            $('.p-common-minicart').load(url+'/cart/resminicart' + " .p-common-minicart>*");
+
+                            var cart_good = ds.cart;
+                            var is_gift = 1;
+
+                            for(var g_key in cart_good)
+                            {
+                                if(g_key == 'pmt_alert')
+                                {
+                                    is_gift =0;
+                                }
+                            }
+
+                            if(is_gift == 0)
+                            {
+//                                var cart_m_good = ds.cart.pmt_alert[0].solution;
+//                                var pmt_id = cart_m_good.pmt_id;
+//
+//                                $(".cart_m_text").html(cart_m_good.title);
+//                                if(cart_m_good.product_photo != '')
+//                                {
+//                                    $("#cart_m_img").attr("src",cart_m_good.product_photo);
+//                                }
+                            }
+                            else
+                            {
+                                var cart_g_good = ds.cart.items;
+
+                                for(var m_key in cart_g_good){
+                                    var str = m_key;
+                                    if(str.indexOf("gift") > 0)
+                                    {
+                                        $(".cart_m_text").html(cart_g_good[m_key].name);
+                                        $("#cart_m_img").attr("src",cart_g_good[m_key].photo.thum);
+                                    }
+                                }
+                            }
+
+                            //跳转到购物车
+                            if(type == 'lg')
+                            {
+                                top.location.href = '/cart';
+                            }
+
+                            dsp(ds.cart.total_amount,ds.cartcount);
+                        }
+                        else if(rs.code == 300){
+                            gdialog_info(rs.msg);
+                        }
+                    }
+                });
+            }
+
+            function getCommentRate() {
+                $.ajax({
+                    type: 'POST',
+                    url: '/ajax/comment/pRate',
+                    dataType: 'json',
+                    data: {
+                        id: $("#product_id").val()
+                    },
+                    success: function(data) {
+                        if (data.code == 200) {
+                            $("#comment_total_top").text('(' + data.msg.num.total + ')');
+                            $("#grade_good_another_left").text(data.msg.good + '%');
+                            $("#grade_good_another").animate({width: data.msg.good + '%'}, 1000);
+                            $("#good_rate_another").text(data.msg.good + '%');
+                            $("#grade_normal_another").animate({width: data.msg.normal + '%'}, 1000);
+                            $("#normal_rate_another").text(data.msg.normal + '%');
+                            $("#grade_bad_another").animate({width: data.msg.bad + '%'}, 1000);
+                            $("#bad_rate_another").text(data.msg.bad + '%');
+                            $("#comment_total").text(data.msg.num.total);
+                            $("#comment_total_good").text(data.msg.num.good);
+                            $("#comment_total_normal").text(data.msg.num.normal);
+                            $("#comment_total_bad").text(data.msg.num.bad);
+
+                            getComment('', 0, data.msg.num.total);
+                        }
+                    }
+                });
+            }
+            // get comment list and pagination
+            function getComment(type, page, total) {
+//                console.log(arguments);
+                $.ajax({
+                    type: 'POST',
+                    url: '/ajax/comment/pList',
+                    dataType: 'json',
+                    data: {
+                        id: $("#product_id").val(),
+                        curr_page: page,
+                        type: type
+                    },
+                    success: function(data) {
+                        if (data.code == 200) {
+                            var list = data.msg.list;
+                            var commentHtml;
+                            if (!list.length) {
+                                commentHtml = '<div class="nocomm">暂时还没有评论</div>';
+                            } else {
+                                commentHtml =  '<div class="detail-allsays01">'
+                                $.each(list, function(k, v) {
+                                    commentHtml +=      '<div class="detail-user-says clearfix">';
+                                    commentHtml +=          '<div class="detail-user-says-left pull-left">';
+                                    commentHtml +=              '<img class="img-circle" src="' + v.userface + '">';
+                                    commentHtml +=              '<p>' + v.user_name + '</p>';
+                                    commentHtml +=          '</div>';
+                                    commentHtml +=          '<div class="detail-user-says-right pull-right">';
+                                    commentHtml +=              '<ul>';
+                                    commentHtml +=                  '<li class="clearfix">';
+                                    commentHtml +=                      '<p class="num pull-left">评分</p>';
+                                    commentHtml +=                      '<p class="start pull-left user-ping">';
+                                    commentHtml +=                          new Array(parseInt(v.star)+1).join('<span class="star"></span>');
+                                    commentHtml +=                      '</p>';
+                                    commentHtml +=                  '</li>';
+                                    commentHtml +=                  '<li class="clearfix">';
+                                    commentHtml +=                      '<p class="cont pull-left">内容</p>';
+                                    commentHtml +=                      '<p class="pull-left user-ping">' + v.content.replace("\\n", "<br />", "g") + '</p>';
+                                    commentHtml +=                  '</li>';
+                                    if (v.thumbs) {
+                                        var commentImage = v.thumbs.split(',');
+                                    commentHtml +=                  '<li data-toggle="modal" data-target="#myModal">';
+                                    commentHtml +=                      '<p class="cont pull-left">晒图</p>';
+                                        $.each(commentImage, function(key, img) {
+                                    commentHtml +=                      '<img src="' + img + '"/>';
+                                        });
+                                    commentHtml +=                  '</li>';
+                                    }
+                                    commentHtml +=                  '<li>';
+                                    commentHtml +=                      '<span class="gray">' + v.time + '</span>';
+                                    commentHtml +=                  '</li>';
+                                    commentHtml +=                  '<li class="clearfix">';
+                                    if(v.customer_repaly != undefined)
+                                    {
+                                        if(v.customer_repaly[0] != null && v.customer_repaly[0].id >0)
+                                        {
+                                            commentHtml +=                      '<p class="cont pull-left" style="color:#64a131">回复</p>';
+                                            commentHtml +=                      '<p class="pull-left user-ping" style="color:#64a131">' + v.customer_repaly[0].content+ '</p>';
+                                            commentHtml +=                  '</li>';
+                                            commentHtml +=                  '<li>';
+                                            commentHtml +=                      '<span class="gray" style="color:#64a131">' + v.customer_repaly[0].time + '</span>';
+                                            commentHtml +=                  '</li>';
+                                        }
+                                    }
+                                    commentHtml +=              '<ul>';
+                                    commentHtml +=          '</div>';
+                                    commentHtml +=      '</div>';
+                                });
+                                commentHtml +=      '</div>';
+
+                            }
+                            $("#comment_box").html(commentHtml);
+
+                            $("#comment_curr_type").val(type);
+                            $("#comment_curr_page").val(page);
+                            $("#comment_curr_total").val(total);
+
+                            getCommentPage(parseInt(total), page);
+                        }
+                    }
+                });
+            }
+            function getCommentPage(total, current){
+                if (total == 0) {
+                    $("#comment_box_page").html('').hide();
+                    return false;
+                }
+
+                var pageSize = 10;
+                var pages = Math.ceil(total/pageSize) - 1;
+                if (pages > 0) {
+                    var start = current - 2 >= 0 ? current - 2 : 0;
+                    var end = current + 2 <= pages ? current + 2 : pages;
+
+                    var commentPageHtml = '';
+                    if (total > pageSize) {
+                        commentPageHtml =   '<a href="javascript:;" class="jq-first"> < 首页</a>';
+                        commentPageHtml +=  '<div class="last">';
+                        commentPageHtml +=      '<a href="javascript:;">上一页</a>';
+                        commentPageHtml +=  '</div>';
+                    }
+                    commentPageHtml +=      '<div class="pagenum">';
+                    for (var i=start; i<=end; i++) {
+                        var curr = i == current ? 'cur' : '';
+                    commentPageHtml +=          '<a href="javascript:;" class="' + curr + '">' + (i+1) + '</a>';
+                    }
+                    commentPageHtml +=      '</div>';
+                    if (total > pageSize) {
+                        commentPageHtml +=  '<div class="next">';
+                        commentPageHtml +=      '<a href="javascript:;">下一页</a>';
+                        commentPageHtml +=  '</div>';
+                        commentPageHtml +=  '<a href="javascript:;" class="jq-last"> 最后一页 > </a>';
+                    }
+
+                    $("#comment_box_page").html(commentPageHtml).show();
+
+                    // bind page event
+                    var currentType = $("#comment_curr_type").val();
+                    var currentPage = parseInt($("#comment_curr_page").val());
+                    var currentTotal = parseInt($("#comment_curr_total").val());
+
+                    $("#comment_box_page .jq-first").on('click', function() {
+                        getComment(currentType, 0, currentTotal);
+                    });
+                    $("#comment_box_page > .last > a").on('click', function() {
+                        var page = currentPage-1 >= 0 ? currentPage-1 : 0;
+                        getComment(currentType, page, currentTotal);
+                    });
+                    $("#comment_box_page > .next > a").on('click', function() {
+                        var page = currentPage+1 <= pages ? currentPage+1 : pages;
+                        getComment(currentType, page, currentTotal);
+                    });
+                    $("#comment_box_page > .pagenum > a").on('click', function() {
+                        getComment(currentType, $(this).text()-1, currentTotal);
+                    });
+                    $("#comment_box_page .jq-last").on('click', function() {
+                        getComment(currentType, pages, currentTotal);
+                    });
+                } else {
+                    $("#comment_box_page").html('').hide();
+                }
+            }
+
+            function getList(page) {
+                $.ajax({
+                    type: 'POST',
+                    url: '/ajax/foretaste/getComment',
+                    dataType: 'json',
+                    data: {
+                        fgid: $("#foretaste-comment").data('fgid'),
+                        page: page
+                    },
+                    success: function(data) {
+                        if (data.code == 200) {
+                            var list = data.msg.data;
+                            var listHtml = '', pageHtml = '';
+                            if (!list.length) {
+                                listHtml = '<div class="nocomm">暂时还没有评论</div>';
+                                $("#comment_box").html(listHtml);
+                            } else {
+                                // list
+                                listHtml =  '<div class="detail-allsays01">'
+                                $.each(list, function(k, v) {
+                                    listHtml +=      '<div class="detail-user-says clearfix">';
+                                    listHtml +=          '<div class="detail-user-says-left pull-left">';
+                                    listHtml +=              '<img class="img-circle" src="' + (v.userinfo ? v.userinfo.userface : '') + '">';
+                                    listHtml +=              '<p>' + (v.userinfo ? v.userinfo.username : '') + '</p>';
+                                    listHtml +=          '</div>';
+                                    listHtml +=          '<div class="detail-user-says-right pull-right">';
+                                    listHtml +=              '<ul>';
+                                    listHtml +=                  '<li class="clearfix">';
+                                    listHtml +=                      '<p class="num pull-left">评分</p>';
+                                    listHtml +=                      '<p class="start pull-left user-ping">';
+                                    listHtml +=                          new Array(parseInt(v.rank)+1).join('<span class="star"></span>');
+                                    listHtml +=                      '</p>';
+                                    listHtml +=                  '</li>';
+                                    listHtml +=                  '<li class="clearfix">';
+                                    listHtml +=                      '<p class="cont pull-left">内容</p>';
+                                    listHtml +=                      '<p class="pull-left user-ping">' + v.content.replace("\\n", "<br />", "g") + '</p>';
+                                    listHtml +=                  '</li>';
+                                    if (v.pic_urls.length) {
+                                    listHtml +=                  '<li data-target="#myModal" data-toggle="modal">';
+                                    listHtml +=                      '<p class="cont pull-left">晒图</p>';
+                                        $.each(v.pic_urls, function(key, img) {
+                                    listHtml +=                      '<img src="' + img + '"/>';
+                                        });
+                                    listHtml +=                  '</li>';
+                                    }
+                                    listHtml +=                  '<li>';
+                                    listHtml +=                      '<span class="gray">' + v.createtime + '</span>';
+                                    listHtml +=                  '</li>';
+                                    listHtml +=              '<ul>';
+                                    listHtml +=          '</div>';
+                                    listHtml +=      '</div>';
+                                });
+                                listHtml +=      '</div>';
+                                $("#comment_box").html(listHtml);
+
+                                // pagep
+                                var total = data.msg.totalResult;
+                                var pageSize = 10;
+                                pageHtml = getPage(total, page, pageSize);
+                                console.log(pageHtml);
+                                $("#comment_box_page").html(pageHtml).show();
+                                if (!pageHtml) $("#comment_box_page").hide();
+                                bindPageEvent(page, Math.ceil(total/pageSize));
+                            }
+                        }
+                    }
+                });
+            }
+            function getPage(total, current, pageSize) {
+                var pages = Math.ceil(total/pageSize);
+                var pageHtml = '';
+
+                if (pages > 1) {
+                    var start = current - 2 >= 1 ? current - 2 : 1;
+                    var end = current + 2 <= pages ? current + 2 : pages;
+
+
+                    if (total > pageSize) {
+                        pageHtml +=     '<a href="javascript:;" class="jq-first"> < 首页 </a>';
+                        pageHtml +=     '<div class="last">';
+                        pageHtml +=         '<a href="javascript:;">上一页</a>';
+                        pageHtml +=     '</div>';
+                    }
+                    pageHtml +=         '<div class="pagenum">';
+                    for (var i=start; i<=end; i++) {
+                        var curr = i == current ? 'cur' : '';
+                    pageHtml +=             '<a href="javascript:;" class="'+ curr + '">' + i + '</a>';
+                    }
+                    pageHtml +=         '</div>';
+                    if (total > pageSize) {
+                        pageHtml +=     '<div class="next">';
+                        pageHtml +=         '<a href="javascript:;">下一页</a>';
+                        pageHtml +=     '</div>';
+                        pageHtml +=     '<a href="javascript:;" class="jq-last"> 最后一页 > </a>';
+                    }
+                } else {
+                    pageHtml = '';
+                }
+
+                return pageHtml;
+            }
+            function bindPageEvent(currentPage, pages) {
+                $("#comment_box_page .jq-first").on('click', function() {
+                    getList(1);
+                });
+                $("#comment_box_page > .last > a").on('click', function() {
+                    var page = currentPage-1 >= 1 ? currentPage-1 : 1;
+                    getList(page);
+                });
+                $("#comment_box_page > .next > a").on('click', function() {
+                    var page = currentPage+1 <= pages ? currentPage+1 : pages;
+                    getList(page);
+                });
+                $("#comment_box_page > .pagenum > a").on('click', function() {
+                    getList(parseInt($(this).text()));
+                });
+                $("#comment_box_page > .jq-last").on('click', function() {
+                    getList(pages);
+                });
+            }
+
+            /*
+             * 加入购物车 - 继续购物
+             */
+            function closeCart() {
+                $('.shop-cart').fadeOut(800);
+                $('.zhezhao').fadeOut(800);
+                $('.f-list .leftpart .p-operate .s-che,.fruit-kinds .good-list ul li .s-info .s-che,.qx-content .qx-cor .qx-cont .qx-info .cart').animate({backgroundPosition: "-517px -243px"}, 500);
+            }
+        </script>
+        <!-- 评论结束 -->
+    </div>
+
+<!--购物车弹出层-->
+<div class="zhezhao"></div>
+<!-- 购物车 -->
+<div class="shop-cart">
+    <div class="shop-top">
+        <div class="cha pull-right">
+            <img src="/images/common/cha.png" alt=""></div>
+    </div>
+    <div class="shop-content">
+        <div class="title clearfix">
+            <div class="suc pull-left"></div>
+            <div class="adds pull-left">
+                <p>加入购物车成功！</p>
+
+            </div>
+        </div>
+        <p class="row2">
+            购物车中共
+            <em class="cartcount">0</em>
+            件商品 | 商品小计
+            <em class="cartprice">￥0</em>
+        </p>
+        <!--<div class="choosed clearfix">-->
+            <!--<ul>-->
+                <!--<li>-->
+                    <div class="buy clearfix">
+                        <div class="fr-buy pull-left">
+                            <a href="javascript:void(0);" onclick="closeCart();" class="btn btn-primary btn-lg active" role="button" title="点击此按钮，到下一步确认购买信息">继续购物</a>
+                        </div>
+                        <div class="fr-add pull-left">
+                            <a href="/cart" class="btn btn-primary btn-lg active" title="加入购物车" role="button">
+                                去结算
+                            </a></div>
+                    </div>
+                <!--</li>-->
+            <!--</ul>-->
+        <!--</div>-->
+    </div>
+</div>
+<!--底部 -->
+<!--<section class="toolbarfoot">-->
+    <!--<div class="toolbar-tab tab-card" style="bottom: 71px;">-->
+        <!--<a href="/web/card_change" target="_blank">-->
+            <!--<i class="tab-ico"></i>-->
+            <!--<em class="tab-text">券卡</em>-->
+        <!--</a>-->
+    <!--</div>-->
+    <!--<div class="toolbar-tab tab-top">-->
+        <!--<a href="#" onclick="window.open('http://p.qiao.baidu.com/im/index?siteid=7860627&ucid=6965311','','width=800,height=600')">-->
+            <!--<i class="tab-ico"></i>-->
+            <!--<em class="tab-text">反馈</em>-->
+        <!--</a>-->
+    <!--</div>-->
+    <!--<div class="toolbar-tab tab-feedback">-->
+        <!--<a href="javascript:scrollTo(0,0);" >-->
+            <!--<i class="tab-ico"></i>-->
+            <!--<em class="tab-text">顶部</em>-->
+        <!--</a>-->
+    <!--</div>-->
+<!--</section>-->
+
+<section class="toolbarfoot" id="tooft">
+    <a href="/web/card_change" target="_blank" class="kq"></a>
+    <a href="#" class="kf"><iframe id="kf" src="/kefu"  frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" width="35" height="35" style="outline: none;border: 0 none;position: fixed;bottom:39px;">
+    </iframe></a>
+    <!--<a href="#" class="kf" onclick="window.open('http://p.qiao.baidu.com//im/index?siteid=7860483&ucid=6965311','','width=800,height=600')"></a>-->
+    <a href="javascript:scrollTo(0,0);" class="return-top"></a>
+</section>
+
+<section class="p-common-footer">
+    <div class="content">
+        <ul class="list-inline clearfix">
+            <li class="p-common-icon p1"></li
+                    ><li class="p-common-icon p2"></li
+                ><li class="p-common-icon p3"></li
+                ><li class="p-common-icon p4"></li>
+        </ul>
+
+        <div class="clearfix footbar">
+            <div class="block4">
+                <div class="logo"></div>
+                <div class="tel"><img src="http://img9.fruitday.com/guan_tel.png" alt="" /></div>
+                <div class="font-gray fs-4"><span class="font-color">服务时间</span> 09:00 - 21:00</div>
+            </div>
+
+            <ul class="block2 list-unstyled">
+                <li><img src="http://img9.fruitday.com/guan_ewcode1.jpg" alt="" /><span>天天果园官方微信</span></li>
+                <li><img src="http://img9.fruitday.com/guan_ewcode2.jpg" alt="" /><span>天天果园APP</span></li>
+            </ul>
+            <ul class="block3 list-unstyled">
+                <li><h4>购物指南</h4><a href="/help/index/725">新用户注册</a><a href="/help/index/726">在线下单</a><a href="/help/index/727">支付方式</a></li>
+                <li><h4>配送说明</h4><a href="/help/index/728">运费说明</a><a href="/help/index/729">运费方式</a><a href="/help/index/730">发票说明</a></li>
+                <li><h4>售后服务</h4><a href="/help/index/731">退换货规则</a><a href="/help/index/732">服务保障承诺</a><a href="/help/index/733">验货与签收</a></li>
+                <li><h4>企业服务</h4><a href="/help/index/734">企业订购</a><a href="/help/index/735">公司简介</a><a href="/help/index/736">定制专区</a></li>
+            </ul>
+
+        </div>
+        <div class="copyright text-center">
+            <p class="fs-2 font-color">版权所有 &copy;2016上海天天鲜果电子商务有限公司&nbsp;&nbsp;保留所有权利 | <a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action" style="color:#999;" target="_blank">沪ICP备12042163</a></p>
+            <p class="fs-2 VI-color2">天天果园&nbsp;&nbsp;鲜果网购</p>
+            <div> <script language="JavaScript">
+                document.writeln("<a href='https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=dov73ne26zbqpug3tq1p70teyahin76ot0'><img src='http://img9.fruitday.com/guan_shgs.gif' border=0></a>")
+            </script>
+                <a href="http://shwg.dianping.com/index.html" class="card-goverment"><img src="http://img9.fruitday.com/guan_wgdjp.png" alt="" /></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 53 kefu  -->
+<!--<iframe src="/kefu" style="width: 35px;height: 35px;outline: none;border: none;position: fixed;bottom: 36px;right: 0;">-->
+<!--</iframe>-->
+
+<!-- baidu map -->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?1c8a96ff82d41e32620cf4036a594559";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+
+<!-- bi -->
+<iframe src="/utrace" style="width: 0;height: 0;"></iframe>
+
+</body>
+<div class="show-loading"></div>
+<script src="http://www.fruitday.com/js/require.js" data-main="http://www.fruitday.com/js/main"></script>
+</html>
+<!-- DSP -->
+<script type='text/javascript'>
+
+    py('event','viewItem',{
+        'product_no':'2160711106',
+        'spu_id':'17390',
+        'name':'精选红心火龙果',
+        'category':'新鲜水果',
+        'price':'59.00',
+        'orig_price':'59.00',
+        'product_url':'http://www.fruitday.com/prodetail/index/14356',
+        'promotion':''
+    });
+
+    BDX_DCO('uploadProduct','14356',{
+        name: "精选红心火龙果",/*必填字段*/
+        img: "https://imgws1.fruitday.com/images/product_pic/14052/1/1-370x370-14052-381DTSCX.jpg",/*必填字段*/
+        url: 'http://www.fruitday.com/prodetail/index/14356',/*必填字段*/
+        offdate:"2016-12-07",/*必填字段*/
+        c1n: "新鲜水果",/*必填字段*/
+        price: '59.00',/*必填字段*/
+        star: '5'/*必填字段*/
+    });
+
+    function dsp(cart_money,cart_count)
+    {
+        py('event','viewCart' ,{
+            'money':cart_money,
+            'items':[
+                {'id':'17390','count':cart_count,'price':'59.00'}
+            ]
+
+        }).track('Um.wdh.fa8rxXoY-NdVKTCborDB8_');
+        BDX_DCO('trackAddCart','14356');
+        _CWiQ.push(['_trackPdmp', '加入购物车', 1]);
+    }
+
+    BDX_DCO('trackVisit','14356');
+</script>
